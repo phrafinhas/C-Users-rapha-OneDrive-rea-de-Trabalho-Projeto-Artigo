@@ -11,7 +11,7 @@
 
 <p align="center">
   <img 
-    src=".github/assets/preview.png"
+    src="assets/banner.png"
     width="400"  
     alt="Pré-visualização do Projeto"
   />
@@ -63,12 +63,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base. E
 ## 👨‍💻 Especialista
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-      alt="Imagem do Especialista"
+    
     />
     <p>&nbsp;&nbsp;&nbsp;Raphael Rodrigues<br>
     &nbsp;&nbsp;&nbsp;

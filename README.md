@@ -63,15 +63,12 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base. E
 ## 👨‍💻 Especialista
 
 <p>
-    
-    />
-    <p>&nbsp;&nbsp;&nbsp;Raphael Rodrigues<br>
-    &nbsp;&nbsp;&nbsp;
+    Raphael Rodrigues<br>
     <a href="https://github.com/phrafinhas">
     GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/raphael-rodrigues-545a79245/">
     LinkedIn</a>
-    &nbsp;|&nbsp;</p>
+    &nbsp;|&nbsp;
 </p>
 
 ---
